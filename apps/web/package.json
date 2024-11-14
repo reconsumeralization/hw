@@ -22,7 +22,7 @@
     "@vercel/blob": "^0.9.2",
     "@vercel/kv": "^0.2.1",
     "ai": "^2.2.33",
-    "autoprefixer": "^10.4.17",
+    "autoprefixer": "^10.4.20",
     "class-variance-authority": "^0.7.0",
     "clsx": "^1.2.1",
     "cmdk": "^0.2.1",
