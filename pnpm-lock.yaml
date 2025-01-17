@@ -220,8 +220,8 @@ importers:
         specifier: ^2.6.4
         version: 2.6.4(@types/react@18.2.55)(react@18.2.0)
       katex:
-        specifier: ^0.16.10
-        version: 0.16.10
+        specifier: ^0.16.20
+        version: 0.16.20
       react:
         specifier: ^18.0.0
         version: 18.2.0
@@ -2547,8 +2547,8 @@ packages:
   jsonfile@4.0.0:
     resolution: {integrity: sha512-m6F1R3z8jjlf2imQHS2Qez5sjKWQzbuuhuJ/FKYFRZvPE3PuHcSMVZzfsLhGVOkfd20obL5SWEBew5ShlquNxg==}
 
-  katex@0.16.10:
-    resolution: {integrity: sha512-ZiqaC04tp2O5utMsl2TEZTXxa6WSC4yo0fv5ML++D3QZv/vx2Mct0mTlRx3O+uUkjfuAgOkzsCmq5MiUEsDDdA==}
+  katex@0.16.20:
+    resolution: {integrity: sha512-jjuLaMGD/7P8jUTpdKhA9IoqnH+yMFB3sdAFtq5QdAqeP2PjiSbnC3EaguKPNtv6dXXanHxp1ckwvF4a86LBig==}
     hasBin: true
 
   keycode@2.2.1:
@@ -6444,7 +6444,7 @@ snapshots:
     optionalDependencies:
       graceful-fs: 4.2.11
 
-  katex@0.16.10:
+  katex@0.16.20:
     dependencies:
       commander: 8.3.0
 
