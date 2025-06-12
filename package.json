@@ -20,6 +20,6 @@
   },
   "devDependencies": {
     "@biomejs/biome": "^1.7.2",
-    "postcss": "^8.4.27"
+    "postcss": "^8.5.5"
   }
 }
