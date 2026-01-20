@@ -19,7 +19,7 @@
     "turbo": "^1.9.3"
   },
   "devDependencies": {
-    "@biomejs/biome": "^1.7.2",
+    "@biomejs/biome": "^1.9.4",
     "postcss": "^8.4.27"
   }
 }
